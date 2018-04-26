@@ -1,0 +1,12 @@
+name: CrashFatalities
+title: CrashFatalities
+username:
+account: nraley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 318703
+bundleId: 1311070
+url: https://nraley.shinyapps.io/CrashFatalities/
+when: 1523330067.89868
+asMultiple: FALSE
+asStatic: FALSE

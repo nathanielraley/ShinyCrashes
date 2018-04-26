@@ -1,0 +1,65 @@
+TYPE,FATAL CRASH #,# of Fatalities,CASE NUMBER,LOCATION,AREA,Date,Month,Day,Hour,Time,Related,charge(Slater),Killed: driver/pass,Speeding,Ran Red Light or Stop Sign,DL Status (incident),IMPAIRED TYPE,restraint / helmet,TYPE OF ROAD,FTSRA,X COORD,Y COORD
+Motor Vehicle,1,1,17-0030106,8200 blk N. Lamar Blvd,ED,01/03/2017,Jan,Tue,1,1:55 AM,MV/FO,NA,driver,Y,N,okay,DRIVER,seatbelt worn,high use roadway,N,-97.709153,30.350809
+Bicycle,2,1,17-0080877,Research Blvd SVRD NB/Riata Trace Pkwy,AD,01/08/2017,Jan,Sun,15,3:32 PM,MV/Bi,NA,n/a,N,Y,suspended,NONE ,helmet worn,other highway,N,-97.753497,30.426752
+Motor Vehicle,3,1,17-0071308,E US Hwy 290 WB Svrd/Johnny Morris,CH,01/07/2017,Jan,Sat,21,9:06 PM,MV/MV,"Intox Manslaughter, Manslaughter, FTSRA",other driver,Y,N,no DL,DRIVER (PENDING),unknown,other highway,Y,-97.623275,30.33123
+Motor Vehicle,4,1,17-0150225,13500 N US 183 NB,AD,01/15/2017,Jan,Sun,2,2:19 AM,MV/MV,Pending,passenger,N,N,no DL,BOTH Drivers,no seatbelt,other highway,N,-97.790548,30.449598
+Pedestrian,5,1,17-0110340,5900 blk N IH35,ID,01/11/2017,Jan,Wed,6,6:51 AM,MV/Ped,NA,n/a,N,N,okay,NONE ,n/a,IH35,N,-97.706646,30.320762
+Motor Vehicle,6,1,17-0360196,13100 S IH35 SB,FR,02/05/2017,Feb,Sun,3,3:41 AM,MV/FO,NA,driver,N,N,okay,DRIVER,seatbelt worn,IH35,N,-97.807729,30.111226
+Motor Vehicle,7,1,17-0381961,6600 Blk E Ben White WB SVRD,HE,02/07/2017,Feb,Tue,23,11:24 PM,MV/FO,NA,driver,Y,N,okay,DRIVER,no seatbelt,IH35,N,-97.707257,30.213443
+Motor Vehicle,8,1,17-0501713,Capital of Texas Hwy/Lakewood Dr,BA,02/19/2017,Feb,Sun,23,11:14 PM,MV/MV,Pending,driver,Y,N,okay,NONE,seatbelts worn,high use roadway,N,-97.78569,30.371658
+Motorcycle,9,1,17-0531085,6100 E. US Highway 290,ID,02/22/2017,Feb,Wed,15,3:15 PM,MC/other,NA,mc driver,Y,N,no DL,NONE,helmet worn,other highway,N,-97.708229,30.321594
+Motor Vehicle,10,1,17-0480200,Ed Bluestein Boulevard and Loyola Lane,CH,02/17/2017,Feb,Fri,2,2:48 AM,MV/MV,NA,driver,Y,N,no DL,DRIVER  ,seatbelt worn,other highway,,-97.660994,30.302634
+Motor Vehicle,11,1,17-0701330,Fleter Ln/Burleson Road,HE,03/11/2017,Mar,Sat,20,8:44 PM,MV/MV,NA,driver,N,Y,no dl,DRIVER,no seatbelt,high use roadway,N,-97.704747,30.197431
+Bicycle,12,1,17-0732104,4800 Blk # MLK Blvd,CH,03/14/2017,Mar,Tue,23,11:42 PM,MV/Bike,DWI,bicyclist,N,N,okay,BOTH   ,no helmet,high use roadway,N,-97.678834,30.286215
+Motor Vehicle,13,1,17-0770668,4200 Southwest Pkwy,DA,03/18/2017,Mar,Sat,8,8:07 AM,MV/FO,NA,driver,Y,N,okay,DRIVER,seatbelt worn,high use roadway,N,-97.826565,30.239929
+Pedestrian,14,1,17-0710136,10010 N Lamar Blvd,ED,03/12/2017,Mar,Sun,1,1:21 AM,MV/Ped,NA,ped,N,N,okay,PED,n/a,high use roadway,N,-97.693053,30.370097
+Pedestrian,15,1,17-0780309,11600 Burnet,AD,03/19/2017,Mar,Sun,2,2:31 AM,MV/Ped,Class C,ped,N,unk,suspended,PED,n/a,high use roadway,N,-97.717858,30.401852
+Pedestrian,16,1,17-0830563,1830 E. Anderson Ln WB,ID,03/24/2017,Mar,Fri,11,11:56 AM,MV/Ped,NA,ped,N,N,okay,NONE (Ped pending),n/a,high use roadway,N,-97.68631,30.332499
+Bicycle,17,1,17-0871629,1803 S. 1st Street,DA,03/28/2017,Mar,Tue,19,7:26 PM,MV/Bike,NA,bicyclist,N,N,okay,DRIVER/BICYCLIST,no helmet,high use roadway,N,-97.755834,30.24743
+Motor Vehicle,18,1,17-0890705,US Hwy 290 WB frontage/Cameron Road,ID,03/30/2017,Mar,Thu,11,11:12 AM,MV/MV,Pending,passenger,N,Y,okay,NONE,seatbelt worn,high use roadway,N,-97.694956,30.321868
+Pedestrian,19,1,17-0941734,800 E William Cannon,FR,04/04/2017,Apr,Tue,21,9:06 PM,MV/PED,FTSRA,ped,N,N,unk,unk,n/a,high use roadway,Y,-97.771719,30.191007
+Motor Vehicle,20,2,17-0980238,3400 S SH130 SB,HE,04/08/2017,Apr,Sat,4,4:43 AM,MV/MV,NA,driver and driver other,unk,N,suspended,DRIVER,seatbelts worn,other highway,N,-97.622752,30.199905
+Motor Vehicle,21,2,17-0980393,9100 W SH71,DA,04/08/2017,Apr,Sat,9,9:52 AM,MV/MV,DOO,driver and driver other,N,N,no DL,NONE,seatbelts worn,other highway,N,-97.904446,30.257222
+Motorcycle,22,1,17-1071522,3730 Manor Rd,BA,04/17/2017,Apr,Mon,19,7:21 PM,MC/MV,Pending,motorcycle driver,N,N,no MC,NONE (pending),no helmet,local,n,-97.694928,30.290123
+Motorcycle,23,1,17-1151237,N Mopac SVRD SB/Research Blvd SVRD SB,BA,04/25/2017,Apr,Tue,16,4:19 PM,MC/other,NA,motorcycle driver,N,N,okay,NONE,helmet worn,other highway,n,-97.733094,30.376402
+Motor Vehicle,24,1,17-1191031,4500 blk E William Cannon,FR,04/29/2017,Apr,Sat,13,1:52 PM,MV/ROR,NA,driver,Y,N,suspended,DRIVER,no seatbelt,high use roadway,n,-97.754884,30.184113
+Pedestrian,25,1,17-1170279,2500 E Stassney Ln,FR,04/27/2017,Apr,Thu,6,6:23 AM,MV/Ped,Class C,ped,N,N,suspended,NONE,n/a,high use roadway,n,-97.7472,30.193826
+Motor Vehicle,26,1,17-1210792,3800 Airport Blvd,CH,05/01/2017,May,Mon,12,12:02 PM,MV/MV,NA,driver,Y,N,no DL,DRIVER,seatbelt worn,high use roadway,n,-97.703222,30.321727
+Motor Vehicle,27,1,17-1501748,400 E Wm Cannon,FR,05/30/2017,May,Tue,21,9:18 PM,MV/ROR,NA,driver,Y,N,no DL,DRIVER,no seatbelt,high use roadway,N,-97.775425,30.192018
+Motor Vehicle,28,1,17-1560274,FM 973/SH 71 WB Svrd,HE,06/05/2017,Jun,Mon,6,6:15 AM,MV/MV,NA,driver,N,Y,okay,NONE,seatbelt worn,other highway,N,-97.639116,30.203154
+Motor Vehicle,29,1,17-1611733,1300 blk Anderson Ln,ID,06/10/2017,Jun,Sat,22,10:28 PM,MV/MV,NA,driver,N,N,okay,Driver,seatbelt worn,high use roadway,N,-97.718512,30.350281
+Pedestrian,30,1,17-1621547,1700 Springdale Rd,CH,06/11/2017,Jun,Sun,21,9:18 PM,MV/Ped,Class C,ped,N,N,okay,NONE ,n/a,local,N,-97.684266,30.283327
+Motor Vehicle,31,1,17-1890048,8500 FM 2222,AD,07/08/2017,Jul,Sat,0,12:30 AM,MV/FO,NA,driver,N,N,suspended,DRIVER ,seatbelt worn,high use roadway,N,-97.81214,30.382159
+Motor Vehicle,32,1,17-1941615,Capital of Texas Hwy/Courtyard Dr,BA,07/13/2017,Jul,Thu,20,8:59 PM,MV/MV,Pending,other driver,,,okay,NONE,seatbelt worn,other highway,N,-97.795281,30.352448
+Pedestrian,33,1,17-1981784,E Braker/IH35 SVRD,ED,07/17/2017,Jul,Thu,22,10:58 PM,MV/Ped,NA,ped,N,N,okay,NONE,n/a,high use roadway,N,-97.675583,30.376949
+Motor Vehicle,34,1,17-2080502,800 blk Bastrop Hwy,HE,07/27/2017,Jul,Sun,8,8:52 AM,MV/MV,Class C,passenger,N,N,okay,NONE,seatbelt worn,other highway,N,-97.683061,30.229561
+Motorcycle,35,1,17-2141370,1100 Pearl Retreat Ln,ED,08/02/2017,Aug,Wed,21,9:43 PM,MC/FO,NA,motorcycle driver,Y,N,okay,NONE,"worn, but came off",local,N,-97.653458,30.394508
+Pedestrian,36,1,17-2151598,8300 N IH 35 NB,ED,08/03/2017,Aug,Thu,21,9:25 PM,MV/Ped,NA,ped,N,N,okay,PED,n/a,I35,N,-97.696045,30.345376
+Motor Vehicle,37,1,17-2171698,Elm Creek Dr / E William Cannon Dr,FR,08/05/2017,Aug,Sat,23,11:06 PM,MV/MV,Pending,driver,Y,N,no DL,DRIVER,seatbelt worn,high use roadway,Y,-97.76287,30.187706
+Motorcycle,38,1,17-2180064,2500 S Lamar,DA,08/06/2017,Aug,Sun,0,12:33 AM,MV/MC,Class C,motorcycle driver,N,N,okay,NONE,helmet worn,high use roadway,N,-97.778115,30.246489
+Pedestrian,39,1,17-2190051,3600 S Congress,DA,08/07/2017,Aug,Mon,1,1:48 AM,MV/Ped,Pending,ped,N,N,no DL,PED ,n/a,alley,Y,-97.761191,30.228058
+Motor Vehicle,40,1,17-2260242,6900 N Lamar,ID,08/14/2017,Aug,Mon,5,5:32 AM,MV/FO,NA,driver,Y,n,okay,NONE,no seatbelt,high use roadway,n,-97.719555,30.336702
+Pedestrian,41,1,17-2350340,3100 US 183 Hwy SB,HE,08/23/2017,Aug,Wed,7,7:14 AM,MV/Ped,FTSRA,ped,unk,N,unknown,UNKNOWN   ,n/a,other highway,Y,-97.683536,30.203971
+Motor Vehicle,42,1,17-2460227,13800 N US 183 Hwy NB,AD,09/03/2017,Sep,Sun,2,2:22 AM,MV/FO,NA,driver,Y,N,okay,Pending,no seatbelt,other highway,N,-97.795248,30.465592
+Pedestrian,43,1,17-2471532,1598 W Wells Branch PKWY,ED,09/04/2017,Sep,Mon,21,9:44 PM,MV/Ped,FTSRA,ped,,N,suspended,UNKNOWN   ,n/a,high use roadway,Y,-97.669327,30.44026
+Motor Vehicle,44,1,17-2481396,4300 S US 183 Hwy SB,HE,09/05/2017,Sep,Tue,22,10:18 PM,MV/FO,NA,driver,Y,N,okay,Driver,seatbelt worn,other highway,N,-97.685973,30.188846
+Motor Vehicle,45,1,17-2361605,1600 blk S IH35 NB,HE,08/24/2017,Aug,Thu,20,8:27 PM,MV/MV,Class C,passenger,N,N,okay,NONE,seatbelt worn,IH35,N,-97.736871,30.240816
+Pedestrian,46,1,17-2500282,6600 blk McNeil Dr,AD,09/07/2017,Sep,Thu,5,5:49 AM,MV/Ped,NA,ped,N,N,okay,NONE,n/a,local,N,-97.755406,30.438991
+Motor Vehicle,47,1,17-2450905,Willow Creek/E Riverside Dr,HE,09/02/2017,Sep,Sat,14,2:00 PM,MV/MV,Class C,passenger,N,N,,NONE,unknown,local,N,-97.725656,30.23768
+Motor Vehicle,48,1,17-2680216,5500 N Capital of Texas Hwy,BA,09/25/2017,Sep,Mon,5,5:14 AM,MV/MV,NA,driver,N,N,okay,NONE,no seatbelt,local,N,-97.795281,30.352448
+Bicycle,49,1,17-2650203,600 blk W. 5th Street,GE,09/22/2017,Sep,Fri,2,2:28 AM,MV/Bike,NA,bicyclist,N,N,okay,BICYLIST,no helmet,local,N,-97.748779,30.268678
+Pedestrian,50,1,17-2831149,9300 blk Parkfield Dr,ED,10/10/2017,Oct,Tue,16,4:29 PM,MV/Ped,FTSRA,ped,Y,N,,UNKNOWN   ,n/a,local,Y,-97.706726,30.366617
+Pedestrian,51,1,17-2850475,E Cesar Chavez/NB I-35 SVRD,GE,10/12/2017,Oct,Thu,10,10:37 AM,MV/Ped,Pending,ped,n,n,okay,NONE,n/a,local,N,-97.735255,30.263801
+Pedestrian,52,1,17-2861375,100 blk Robert T Martinez Jr. Street,CH,10/13/2017,Oct,Fri,19,7:36 PM,MV/Ped,NA,ped,N,N,,PED (pending),n/a,local,N,-97.720683,30.255787
+Pedestrian,53,1,17-2890294,5000 blk E Stassney Ln,FR,10/16/2017,Oct,Mon,5,5:57 AM,MV/Ped,NA,ped,N,N,okay,UNKNOWN (pending),n/a,high use roadway,N,-97.739666,30.19363
+Pedestrian,54,1,17-3001690,3401 S Lamar Blvd,DA,10/27/2017,Oct,Sat,21,9:00 PM,MV/Ped,Pending,ped,N,N,okay,PED,n/a,high use roadway,N,-97.78614,30.240842
+Motorcycle,55,1,17-3021271,Comal/7th Street,GE,10/29/2017,Oct,Sun,18,6:13 PM,MV/MC,NA,mc driver,Y,Y,okay,MOTORCYCLE DRIVER ,helmet worn,local,N,-97.726138,30.263954
+Pedestrian,56,1,17-3041428,Willow/Chicon,CH,10/31/2017,Oct,Tue,20,8:35 PM,MV/Ped,FTSRA,ped,N,N,unknown,UNKNOWN   ,n/a,local,Y,-97.725024,30.256208
+Motorcycle,57,1,17-3090297,1308 Thornberry,HE,11/05/2017,Nov,Sun,2,2:19 AM,MC/FO,NA,motorcycle driver,Y,N,no DL,pending,helmet worn,local,N,-97.664369,30.222797
+Motor Vehicle,58,1,17-3091672,Spicewood Springs/Scotland Well Dr,AD,11/05/2017,Nov,Sun,22,10:19 PM,MV/FO,NA,driver,Y,N,suspended,DRIVER (PENDING),seatbelts worn,local,n,-97.793613,30.422528
+Motor Vehicle,59,3,17-3150989,9400 blk Research Blvd,BA,11/11/2017,Nov,Sat,15,3:32 PM,MV/MV,"Intox Manslaughter, Manslaughter",driver other and 2 passenger other,N,N,okay,DRIVER,seatbelts worn,other highway,N,-97.743921,30.386784
+Motor Vehicle,60,2,17-3151167,Riverside/Vargas Rd,HE,11/11/2017,Nov,Sat,22,10:37 PM,MV/FO,NA,driver and passenger,Y,N,no DL,DRIVER (Pending),yes,high use roadway,N,-97.701118,30.224027
+Pedestrian,61,1,17-3241448,5300 blk IH35 SB,ID,11/20/2017,Nov,Mon,19,7:44 PM,MV/Ped,NA,ped,N,N,okay,PED (pending),n/a,IH35,N,-97.70943,30.311346
+Motor Vehicle,62,1,17-3271177,4200 E MLK Jr Blvd,CH,11/23/2017,Nov,Thu,22,10:39 PM,MV/MV,NA,driver,Y,N,no DL,DRIVER (PENDING),,local,N,-97.688968,30.284871
+Pedestrian,63,1,17-3281208,800 blk W Slaughter,FR,11/24/2017,Nov,Fri,20,8:01 PM,MV/Ped,NA,ped,N,N,okay,PED (pending),,high use roadway,,-97.805879,30.174032
+Pedestrian,64,1,17-3281397,13900 S IH 35 SB,FR,11/24/2017,Nov,Fri,22,10:14 PM,MV/Ped,NA,ped,N,N,okay,PED (pending),n/a,IH35,N,-97.812755,30.100462

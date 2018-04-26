@@ -1,0 +1,79 @@
+RoadofAccident,Date,Day,Time,Type,WHO DIED,TYPE OF ROAD
+9600 S IH 35 NB,01/01/2012,SUN,5:07:00,MV/PED,Pedestrian,IH35
+6700 S PLEASANT VALLEY RD,01/02/2012,MON,2:00:00,MV/FO,Driver Unit 1,Local Street
+1300 W WELLS BRANCH PKWY,01/10/2012,TUE,18:55:00,MV/PED,Pedestrian,Local Street
+12600 BLK N US 183 NB SVRD,01/23/2012,SUN,22:26:00,MV/BI,Bicyclist,High Speed Roadway (not IH 35)
+3700 OAK SPRINGS DR,01/27/2012,THU,21:11:00,MV/MC,Motorcyclist (scooter) Unit 2,Local Street
+JOLLYVILLE RD @ BRAKER,01/30/2012,MON,18:41:00,MV/PED,Pedestrian,Local Street
+13200 BLK N. SH 45 W WB,02/04/2012,SAT,16:52:00,MV/MC,Motorcyclist Unit 1,High Speed Roadway (not IH 35)
+5500 BLK SHOAL CREEK BLVD,02/05/2012,SUN,2:45:00,MV/FO,Driver,Local Street
+3100 BLK GUADALUPE ST,02/19/2012,SUN,19:03:00,MV/PED,Pedestrian,Local Street
+9500 BLK N MOPAC EXPY NB,02/19/2012,SUN,20:27:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+1319 MCKIE DR,02/24/2012,FRI,16:28:00,MV/PED,Pedestrian,Local Street
+10600 BLK N LAMAR BLVD,03/01/2012,THU,19:10:00,MV/PED,Pedestrian,Local Street
+MANCHACA RD,03/02/2012,FRI,16:22:00,MV/MC,Motorcyclist Unit 2,Local Street
+1700 BLK RUTLAND DR,03/03/2012,SAT,0:52:00,MV/MC,Motorcyclist Unit 1,Local Street
+4600 BLK ADELPHI LN,03/11/2012,SUN,21:57:00,MV/FO,Driver Unit 1,Local Street
+2000 W STASSNEY LN,03/21/2012,WED,21:09:00,MV/PED,Pedestrian,Local Street
+8100 S IH 35 NB,03/24/2012,SAT,22:55:00,MV/PED,Pedestrian,IH35
+N MOPAC NB SVRD @ STECK,03/31/2012,SAT,6:41:00,MV/MV,Driver Unit 2,High Speed Roadway (not IH 35)
+1600 E CESAR CHAVEZ ST,04/01/2012,SUN,20:33:00,MV/PED,Pedestrian,Local Street
+WEST GATE BLVD @ WINDSWEPT CV,04/02/2012,MON,21:15:00,MV/PED,Pedestrian,Local Street
+8000 RESEARCH BLVD NB SVRD,04/07/2012,SAT,23:11:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+1200 BASTROP HWY SB SVRD,04/08/2012,SUN,23:08:00,MV/FO,Driver Unit 1,High Speed Roadway (not IH 35)
+9800 FM 2222 RD,04/09/2012,MON,2:23:00,MV/FO,Driver Unit 1,Local Street
+1300 CROSSING PLACE,04/20/2012,FRI,2:01:00,MV/PED,Pedestrian,Local Street
+13100 N MOPAC SB SVRD,04/30/2012,MON,7:40:00,MV/TRAIN,Driver,High Speed Roadway (not IH 35)
+900 W CESAR CHAVEZ ST,05/07/2012,MON,17:18:00,MV/PED,Pedestrian,Local Street
+9900 N IH 35 NB SVRD,05/15/2012,TUE,0:29:00,MV/FO,Driver Unit 1,IH35
+4400 LENDALL LN,05/16/2012,WED,19:29:00,MV/PED,Pedestrian,Local Street
+600 BASTROP HWY NB,05/27/2012,SUN,23:23:00,MV/ROR,Passenger Unit 1,High Speed Roadway (not IH 35)
+600 BASTROP HWY NB,05/27/2012,SUN,23:23:00,MV/ROR,Passenger unit 1,
+2000 W PARMER LN,06/04/2012,MON,18:55:00,MV/PED,Pedestrian,Local Street
+6200 N IH 35 SB SVRD FLYOVER TO EB E US HWY 290 EB,06/08/2012,FRI,10:15:00,MC/FO,Motorcyclist Unit 1,IH35
+900 W KOENIG LN,06/09/2012,SAT,0:33:00,MC/ROR,Motorcyclist Unit 1,Local Street
+10800 block Lake Creek Parkway,06/09/2012,SAT,unknown,MV/FO,Driver Unit 1,Local Street
+E MARTIN LUTHER KING JR BLVD,06/09/2012,SAT,9:29:00,MV/MC,Motorcyclist Unit 1,Local Street
+6300 W SLAUGHTER LN,06/10/2012,SUN,6:37:00,MV/PED,Pedestrian,Local Street
+W BEN WHITE BLVD EB SVRD,06/15/2012,FRI,15:27:00,MV/MV,Driver Unit 2,High Speed Roadway (not IH 35)
+600 E KOENIG LN,06/16/2012,SAT,23:24:00,MV/MV,Driver Unit 1,Local Street
+5300 BLK N IH 35 SB,06/20/2012,WED,1:40:00,18WHL/PED,Pedestrian,IH35
+N PLEASANT VALLEY RD,06/24/2012,SUN,1:38:00,MV/MV,Passenger Unit 2,Local Street
+10 EAST AVE into Town Lake,07/01/2012,SUN,1:46:00,MV/FO,Passenger Unit 1,Local Street
+7400 TWILIGHT SHADOW DR,07/01/2012,SUN,3:04:00,MV/FO,Passenger Unit 1,Local Street
+3400 BLK GOODWIN AVE,07/18/2012,WED,19:27:00,MV/FO,Passenger Unit 1,Local Street
+2700 E 7TH ST,07/23/2012,MON,17:57:00,MV/MC,Motorcyclist Unit 1,Local Street
+10000 E US 290 HWY WB,07/27/2012,FRI,13:20:00,MV/MV,Driver Unit 1,High Speed Roadway (not IH 35)
+200 W BEN WHITE BLVD WB,07/31/2012,TUE,6:20:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+1700 DELONEY ST,08/08/2012,WED,19:59:00,MV/PED,Pedestrian,Local Street
+9300 FM 969 RD,08/18/2012,SAT,13:39:00,MV/MV,Driver Unit 2,Local Street
+DESSAU RD @ Braker,08/21/2012,TUE,15:26:00,MV/MC,Motorcyclist Unit 1,Local Street
+8600 S IH 35 SB SVRD,08/27/2012,MON,10:56:00,MV/ROR,Driver Unit 1,IH35
+7200 S IH 35 SVRD NB,09/02/2012,SUN,1:27:00,MV/PED,Pedestrian,IH35
+100 blk S. Congress Ave,09/23/2012,SUN,4:23:00,MV/BI,Bicyclist,Local Street
+2211 Garden St,10/02/2012,TUE,0:22:00,MV/FO,Driver Unit 1,Local Street
+2211 Garden St,10/02/2012,TUE,0:22:00,MV/FO,Passenger Unit 1,Local Street
+3200 E SH 71 WB,10/02/2012,TUE,4:20:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+183 Frontage road,10/05/2012,FRI,21:03:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+7500 Cameron Road,10/13/2012,SAT,0:58:00,MV/MC,Motorcyclist Unit 1,Local Street
+7800 block Manchaca Rd,10/13/2012,SAT,18:14:00,MV/MV,Driver Unit 1,Local Street
+N. Lamar Blvd @ Thurmond St.,10/17/2012,WED,23:51:00,MV/PED,Pedestrian,Local Street
+6600 blk E. US Hwy 290 WB,10/22/2012,MON,0:56:00,MV/PED,Pedestrian,High Speed Roadway (not IH 35)
+5800 S. 1st,10/28/2012,SUN,2:07:00,MV/PED,Pedestrian,Local Street
+Montopolis Drive @ Hogan Ave,10/28/2012,SUN,18:59:00,MV/MC,Driver,Local Street
+S. IH 35 Svc. Rd. N/B and FM 1327 Rd. W/B,10/29/2012,MON,17:22:00,MV/MV,Driver Unit 1,IH35
+8800 blk Research NB,11/01/2012,THU,2:16:00,MV/FO,Driver Unit 1,High Speed Roadway (not IH 35)
+E. Riverside/Yellow Jacket,11/03/2012,SAT,0:22:00,MV/BI,Bicycle,Local Street
+8610 N. Lamar,11/17/2012,SAT,23:12:00,MV/FO,Driver Unit 1,Local Street
+9900 Block S IH 35 SVRD SB,11/22/2012,THU,4:12:00,MV/FO,Driver Unit 1,IH35
+6400 E. Parmer Lane,11/25/2012,SUN,2:15:00,MV/ROR,Driver,Local Street
+U.S 290 W/B Svc. Rd. and S/B 183 Svc. Rd. ,12/02/2012,SUN,20:07:00,18WHL/MV,Passenger Unit 2,High Speed Roadway (not IH 35)
+Magin Meadow Dr / Stonleigh Pl,12/09/2012,SUN,3:05:00,MC/FO,Motorcyclist Unit 1,Local Street
+12700 N. IH 35 NB proper,12/09/2012,SUN,9:02:00,MC/FO,Motorcyclist Unit 1,IH35
+6600 Manchaca Rd,12/10/2012,MON,14:56:00,MV/MV,Driver Unit 1,Local Street
+9400 N. IH 35 SVRD NB,12/15/2012,SAT,2:00:00,MV/FO,Driver,IH35
+9400 N. IH 35 SVRD NB,12/15/2012,SAT,2:00:00,MV/FO,Passenger,IH35
+W. Ben White Blvd Svrd EB @ S. 1st St.,12/19/2012,WED,23:03:00,MC/FO,Motorcyclist Unit 1,High Speed Roadway (not IH 35)
+E. SH 71 / FM 973 Rd,12/29/2012,SAT,12:57:00,MV/MV,Driver Unit 2,High Speed Roadway (not IH 35)
+11000 block Anderson Mill Rd,12/31/2012,MON,9:12:00,MV/MV,Driver unit 1,Local Street
+N US Hwy 183 SB Svrd/ E US HWY 290 WB Svrd,12/31/2012,MON,18:07:00,MV/MV,Driver unit 2,High Speed Roadway (not IH 35)
